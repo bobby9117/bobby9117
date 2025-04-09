@@ -6,13 +6,20 @@ I’m a passionate technologist with a deep curiosity for how things work—and 
 ⸻
 
 🚀 Tech Stack & Expertise
-	•	🧠 Machine Learning & AI: Model training, classification, regression, data preprocessing, and deep learning
-	•	🔐 Cybersecurity: Network scanning, vulnerability assessment, basic exploitation, and ethical hacking practices
-	•	⚙️ Automation: Scripting with Python & Bash, task scheduling with cron, and building efficient workflows
-	•	🖥️ Systems & OS: Proficient with Linux environments, shell scripting, and system configuration
-	•	🛜 Networking: Understanding of protocols, packet analysis using Wireshark, and reconnaissance tools like Nmap
-	•	🧰 Dev Tools: Git version control, GitHub for collaboration, VS Code for development
-	•	🧪 Experimenting with: Brain-computer interfaces, AR/VR integration, and quantum computing fundamentals
+	
+ •	🧠 Machine Learning & AI: Model training, classification, regression, data preprocessing, and deep learning
+	
+ •	🔐 Cybersecurity: Network scanning, vulnerability assessment, basic exploitation, and ethical hacking practices
+	
+ •	⚙️ Automation: Scripting with Python & Bash, task scheduling with cron, and building efficient workflows
+	
+ •	🖥️ Systems & OS: Proficient with Linux environments, shell scripting, and system configuration
+	
+ •	🛜 Networking: Understanding of protocols, packet analysis using Wireshark, and reconnaissance tools like Nmap
+	
+ •	🧰 Dev Tools: Git version control, GitHub for collaboration, VS Code for development
+ 
+ •	🧪 Experimenting with: Brain-computer interfaces, AR/VR integration, and quantum computing fundamentals
 
 ⸻
 
